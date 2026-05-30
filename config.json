@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyerocess",
+        "uuid": 1909899,
+        "checksum": "epc6js"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
